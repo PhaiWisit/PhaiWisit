@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PhaiWisit&layout=compact&theme=react)](https://github.com/PhaiWisit)
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=phaiwisit)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <!--
 **PhaiWisit/PhaiWisit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
