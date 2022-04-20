@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PhaiWisit&layout=compact&theme=react)](https://github.com/PhaiWisit)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PhaiWisit&layout=compact)](https://github.com/PhaiWisit)
 
 <!-- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=phaiwisit)](https://github.com/PhaiWisit)
  -->
