@@ -1,4 +1,5 @@
 ### Hi there 👋
+No content yet. I'll update soon.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PhaiWisit&layout=compact)](https://github.com/PhaiWisit)
 
